@@ -1,0 +1,8 @@
+SOLID PRINCIPLE : 
+
+1. S : Single Responsability Principle : A class should have only one reason to change . 
+2. O : Open/Closed Principle : A software system should be easy to extend without the need for modification in the existing system. For the software systems, this goal is achieved by OCP.
+3. L : Liskov  Substitution Principle : Objects of super class should be replacable with objects of sub classes . 
+4. I : Interface Segregation Principle : A design principle that does not recommend having methods that an interface would not use and require. T
+5. D : Dependency Inversion Principle : The DIP reduces the number of dependencies among modules. It provides a layer of abstraction between lower and higher classes, allowing for changes in the lower class without making changes in the higher class.
+
